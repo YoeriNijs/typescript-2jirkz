@@ -1,3 +1,1 @@
-# typescript-2jirkz
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-2jirkz)
+Just some experimental stuff to implement a typesafe wrapper around the localStorage api.
